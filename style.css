@@ -1,0 +1,22 @@
+caption{
+  font-size:50px;
+}
+.title{
+  color:fuchsia;
+}
+table, th, td{
+  border: 5px solid gray;
+  padding: 10px;
+}
+table{
+  border-collapse: collapse;
+  width: 100%;
+}
+th{
+  color:crimson;
+  background-color:lightskyblue;
+}
+td{
+  color:indianred;
+  background-color:ivory;
+}
